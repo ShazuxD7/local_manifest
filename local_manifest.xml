@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/realms/RMX1801" name="ShazuxD7/android_device_realme_RMX1801.git" remote="github" revision="Q" />
+ <project path="kernel/realms/sdm660" name="Ad1tyaS1ngh/android_kernel_realme_sdm660.git" remote="github" revision="Q" />
+ <project path="vendor/realme" name="Ad1tyaS1ngh/android_vendor_realme.git" remote="github" revision="Q" />
+ 
+</manifest>
